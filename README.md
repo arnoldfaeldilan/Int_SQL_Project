@@ -19,7 +19,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/customer_segmentation_total_ltv_distribution.png" width="100%">
+<img src="images/customer_segmentation_total_ltv_distribution.png" alt="Customer Segmentation" width="75%">
 
 
 📊 **Key Finding:**
@@ -42,7 +42,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-![Cohort Analysis](/images/customer_revenue_by_first_purchase_year.png)
+<img src="images/customer_revenue_by_first_purchase_year.png" alt="Cohort Analysis" width="75%">
 
 📊 **Key Finding:**
 - Customer revenue peaked around 2015–2017 and has declined steadily since 2019, showing a downward trend in average revenue per customer for newer cohorts.
@@ -66,7 +66,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-![3_retention_analysis](/images/total_customer_retention_and_churn_by_cohort_year.png)
+<img src="images/total_customer_retention_and_churn_by_cohort_year.png" alt="Retention Analysis" width="75%">
 
 📊 **Key Findings:**
 - Across all cohorts, churned customers consistently represent about 90 to 92 percent of the total.
