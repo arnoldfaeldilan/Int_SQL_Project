@@ -94,5 +94,5 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Technical Details
 - **Database:** PostgresSQL
-- **Analysis Tools:** PostgresSQL
+- **Analysis Tools:** PostgresSQL, Dbeaver
 - **Visualization:** Python, Jupyter Notebook
